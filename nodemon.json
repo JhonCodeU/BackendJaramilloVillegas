@@ -1,0 +1,11 @@
+{
+    "ignore": [
+        "**/node_modules/**",
+        ".gitignore"
+    ],
+    "watch": [
+        "src"
+    ],
+    "ex": "ts",
+    "exec": "npm run dev"
+}
